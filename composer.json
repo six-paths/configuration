@@ -1,0 +1,10 @@
+{
+    "name": "sixpaths/configuration",
+    "authors": [
+        {
+            "name": "Jack O'Hara",
+            "email": "jack.ohara@sixpaths.co.uk"
+        }
+    ],
+    "require": {}
+}
